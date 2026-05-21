@@ -3,14 +3,14 @@
 
 <p align="center">
   <!-- Substitua os links abaixo para direcionar para as versões completas se preferir, ou use o menu rápido -->
-  <a href="#-english">English</a> • 
-  <a href="#-日本語">日本語</a> • 
+  <a href="#-english">🇺🇸 English</a> • 
+  <a href="#-日本語">🇯🇵 日本語</a> • 
   <a href="https://linkedin.com" target="_blank">🔗 LinkedIn</a>
 </p>
 
 ---
 
-## English
+## 🇺🇸 English
 
 ### 👤 About Me
 Digital Strategist and Systems Engineer with **over 15 years of experience** in data analysis, database management, and enterprise systems (ERP/Legacy). Currently based in **Chiba, Japan**, combining solid IT infrastructure knowledge with digital content strategy and AI-driven automation.
@@ -31,7 +31,7 @@ Digital Strategist and Systems Engineer with **over 15 years of experience** in 
 
 ---
 
-## 日本語
+## 🇯🇵 日本語
 
 ### 👤 自己紹介
 データ分析、データベース管理、および基幹システム（ERP/レガシーシステム）の分野で**15年以上の実務経験**を持つシステムエンジニア兼データアーキテクトです。現在は**千葉県**を拠点に、これまでの強固なITインフラ知識とデジタルコンテンツ戦略、AIを活用した自動化プロセスを融合させた活動を行っています。
