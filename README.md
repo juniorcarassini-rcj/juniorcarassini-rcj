@@ -1,5 +1,5 @@
 # Hi there! I'm Rober Carassini Junior 👋
-## Data Architect | Systems Engineer | Content Creator
+## Data Architect | Systems Engineer | Digital Strategist
 
 <p align="center">
   <!-- Substitua os links abaixo para direcionar para as versões completas se preferir, ou use o menu rápido -->
