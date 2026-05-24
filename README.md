@@ -52,8 +52,9 @@ Digital Strategist and Systems Engineer with **over 15 years of experience** in 
 
 ---
 
-## 📺 YouTube & Content Creation
-I transform complex tech data into engaging digital growth. Check out my video presentation below!
+## 📺 AI-Driven Content Automation (MVP Concept)
+This section demonstrates a fully automated content creation pipeline (Script-to-Video) developed for international digital ecosystems, specifically targeting the Japanese parenting market. 
 
-[![Watch my presentation video](https://shields.io)](LINK_DO_SEU_VIDEO_AQUI)
+The entire video asset—including localized copy focusing on child psychology paradigms (*Iya-Iya Ki* / Terrible Twos), native Japanese high-fidelity text-to-speech synthesis, strategic retention pacing, and automated subtitle tracking—was engineered programmatically via Generative AI workflows.
 
+https://github.com/user-attachments/assets/COLE_O_LINK_DO_SEU_VIDEO_AQUI
