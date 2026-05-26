@@ -57,4 +57,9 @@ This section demonstrates a fully automated content creation pipeline (Script-to
 
 The entire video asset—including localized copy focusing on child psychology paradigms (*Iya-Iya Ki* / Terrible Twos), native Japanese high-fidelity text-to-speech synthesis, strategic retention pacing, and automated subtitle tracking—was engineered programmatically via Generative AI workflows.
 
+### 🇯🇵 AIコンテンツ自動化（MVPコンセプト）
+このセクションでは、日本の育児市場をターゲットにした、海外デジタルエコシステム向けの完全自動化コンテンツ制作パイプライン（Script-to-Video）の実証を行っています。
+
+児童心理学のパラダイム（イヤイヤ期）に焦点を当てたローカライズ原稿の作成から、高精度な日本語テキスト読み上げ（TTS）音声の合成、視聴維持率を意識した戦略的なテンポ調整、そして自動字幕トラッキングに至るまで、動画資産全体が生成AIのワークフローを通じてプログラム的に構築されています。
+
 [![Watch Video](https://img.shields.io/badge/YouTube-Watch%20Shorts-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=2aFcMb2bjHI)
