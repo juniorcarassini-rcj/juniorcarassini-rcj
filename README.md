@@ -53,8 +53,8 @@ Digital Strategist and Systems Engineer with **over 15 years of experience** in 
 ---
 
 ## 📺 AI-Driven Content Automation (MVP Concept)
-This section demonstrates a fully automated content creation pipeline (Script-to-Video) developed for international digital ecosystems, specifically targeting the Japanese parenting market[cite: 1]. 
+This section demonstrates a fully automated content creation pipeline (Script-to-Video) developed for international digital ecosystems, specifically targeting the Japanese parenting market. 
 
-The entire video asset—including localized copy focusing on child psychology paradigms (*Iya-Iya Ki* / Terrible Twos), native Japanese high-fidelity text-to-speech synthesis, strategic retention pacing, and automated subtitle tracking—was engineered programmatically via Generative AI workflows[cite: 1].
+The entire video asset—including localized copy focusing on child psychology paradigms (*Iya-Iya Ki* / Terrible Twos), native Japanese high-fidelity text-to-speech synthesis, strategic retention pacing, and automated subtitle tracking—was engineered programmatically via Generative AI workflows.
 
 [![Watch Video](https://img.shields.io/badge/YouTube-Watch%20Shorts-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=2aFcMb2bjHI)
